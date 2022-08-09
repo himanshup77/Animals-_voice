@@ -1,0 +1,19 @@
+body{
+	background-color: #484986;
+}
+.Nam{
+	color: sandybrown;
+	font-size: 50px;
+}
+.awaz {
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    width: 200px;
+    height: 25px;
+}
+h1{
+	padding: 10px;
+	font-size: 50px;
+}
+hr{
+	 border: 1px solid red;
+}
